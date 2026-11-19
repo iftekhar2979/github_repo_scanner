@@ -242,5 +242,3 @@ Everything is stored under `polinrider_work` in your home folder
 | `SKIPPED (GitHub changed since the local copy …)` | Rerun with `--fresh` |
 | `SKIPPED (uncommitted changes …)` | Commit or stash your work in that repo first |
 | `NOT APPLIED (branch(es) … would become completely empty …)` | That branch contains only malicious files. Delete it by hand (`git branch -D name`, and `git push origin --delete name` if it is on GitHub) |
-#   g i t h u b _ r e p o _ s c a n n e r  
- 
